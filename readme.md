@@ -2,6 +2,9 @@
 
 A shell script that takes an SVG file and creates a shuffled version by dividing it into tiles.
 
+![svg-shuffle-example](https://github.com/user-attachments/assets/4b885fe1-32ee-4fea-8445-057ff364751b)
+
+
 ## Usage
 
 First, make the script executable:
@@ -43,3 +46,5 @@ This script requires [vpype](https://github.com/abey79/vpype) to be installed. I
 ```bash
 pip install vpype
 ```
+
+
