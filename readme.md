@@ -7,6 +7,14 @@ A shell script that takes an SVG file and creates a shuffled version by dividing
 
 ## Usage
 
+First, make the script executable:
+
+```bash
+chmod +x shuffle.sh
+```
+
+Then run:
+
 ```bash
 ./shuffle.sh <input_file> <number_of_tiles>
 ```
