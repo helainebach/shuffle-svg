@@ -44,7 +44,7 @@ The output is a new SVG file with shuffled tiles from the original image.
 This script requires [vpype](https://github.com/abey79/vpype) to be installed. Install it using:
 
 ```bash
-pip install vpype
+pipx install "vpype[all]"
 ```
 
 
