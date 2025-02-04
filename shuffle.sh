@@ -38,6 +38,8 @@ vpype \
    scaleto %$u*.9% %$u*.9% \
    end \
    layout -m %$u*.1% 1000x1000 \
+   lmove all new \
+   splitall linemerge linesort \
    write ${1%.*}_shuffled.svg
 
 rm -r $folderName   

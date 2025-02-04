@@ -31,7 +31,7 @@ The script performs these operations:
 5. Shuffles tile list randomly
 6. Renames tiles sequentially
 7. Arranges shuffled tiles in a grid
-8. Creates final shuffled SVG
+8. Writes plot optimized SVG
 9. Cleans up temporary files
 
 The output is a new SVG file with shuffled tiles from the original image.
